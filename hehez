@@ -1,0 +1,26 @@
+[33mcommit ecf3cf247013fbabdadf726440c913aa8f6098df[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: dallsszz <randallalquicer.work@gmail.com>
+Date:   Thu Feb 17 23:06:09 2022 +0800
+
+    Add hello_world.txt
+
+[33mcommit 634f39fc361428e9894346c12c7a8363bac50443[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e7ae80a 8732ae2
+Author: Dallsszz <99118924+Dallsszz@users.noreply.github.com>
+Date:   Wed Feb 16 19:38:09 2022 +0800
+
+    Merge pull request #1 from Dallsszz/New
+    
+    Create new
+
+[33mcommit 8732ae2554d8825e997a199fef37b6213f7bde67[m
+Author: Dallsszz <99118924+Dallsszz@users.noreply.github.com>
+Date:   Wed Feb 16 19:37:35 2022 +0800
+
+    Create new
+
+[33mcommit e7ae80aab9e9b7265e944ec7655db9e9acf0cb27[m
+Author: Dallsszz <99118924+Dallsszz@users.noreply.github.com>
+Date:   Wed Feb 16 19:31:16 2022 +0800
+
+    Initial commit
