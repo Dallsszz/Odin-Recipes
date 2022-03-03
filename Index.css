@@ -1,0 +1,161 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#b1,#b2,#b3,#b4,#cp{
+    
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#l1,#l2,#l3{
+    padding: 10px;
+}
+.header{
+    display: flex;
+    
+    margin: 0px;
+    padding: 2px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+}
+.logo{
+    
+    height: 50px;
+    align-items: center;
+    margin: 10px;
+    margin-left: 10%;
+    font-size: 48px;
+    font-style: extra-bold;
+    color: white;
+    padding: 0px;
+}
+.links{
+    display: flex;
+    
+    height: 50px;
+    align-items: center;
+    margin: 1px;
+    margin-right: 10%;
+    width: 30%;
+    font-size: 18px;
+    color: white;
+}
+#b1{
+    display: flex;
+    height: 480px;
+    align-items: center;
+    background-color: #1F2937;
+}
+#bd1{
+    
+    width: 40%;
+}
+#bd2{
+    display: flex;
+    width: 50%;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin: 20px;
+
+}
+#bd1,#bd2{
+    
+    height: 280px;
+    
+}
+#b2h1{
+    display: flex;
+    justify-content: center;
+}
+#ri{
+    display: flex;
+    justify-content: center;
+    
+    margin-bottom: 20px;
+}
+.r{
+    display: inline;
+    justify-content: center;
+    height: 250px;
+    margin: 10px;
+    width: 15%;
+    
+}
+.ribox{
+    border-radius: 20px;
+    border: 3px solid rgb(46, 104, 211);
+    height: 60%;
+    
+
+}
+#st{
+    text-align: center;
+    margin: 0px;
+}
+#b3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(218, 212, 212);
+    height: 300px;
+    padding-top: 10px;
+}
+.b3p{
+    font-size: 30px;
+    margin: 0px;
+    
+    
+}
+.b3p1{
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+}
+#quote{
+    
+    width: 70%;
+}
+#b4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    
+}
+#b4flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:20px;
+    width: 80%;
+    background-color: #3882F6;
+    border-radius: 10px; 
+    color: white;
+}
+#b42{
+    width: 15%;
+    height: 30px;
+    border:2px solid white;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: white;
+    font-size: 80%;
+}
+#b41,#b42{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#cp{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+}
+
+
